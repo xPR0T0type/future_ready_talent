@@ -15,4 +15,4 @@ HOTEL WEBSITE FUTURE READY TALENT
 
 # Azure Web App Services, Static Web Apps, Visual Studio Code, Azure Database For MySQL, Microsoft Azure Portal
 
-Project Demo URL: https://vedantmavalehotelwebsite-secondary.z13.web.core.windows.net/
+Project Demo URL: https://vedantmavalehotelwebsite.z13.web.core.windows.net/
